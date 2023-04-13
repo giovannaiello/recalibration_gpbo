@@ -9,6 +9,7 @@ Type
 	$ pip install -r requirements.txt
 in order to install all the needed external modules
 
+Please also note that you need to have a Figures folder, where the figures will be solved
 
 Open MAIN.py (Spyder) or run in the terminal by typing
  $ python3 MAIN.py
